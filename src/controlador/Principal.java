@@ -14,6 +14,7 @@ public class Principal {
 		miPrincipal.iniciar();
 	}
 
+	//metodo iniciar
 	private void iniciar() {
 	
 		//se crean los objetos
