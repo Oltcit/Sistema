@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Conexion {
-	static String bd = "alumno";
+	static String bd = "Cursa";
 	static String driver = "net.ucanaccess.jdbc.UcanaccessDriver";
 	static String url="jdbc:ucanaccess://c:\\datosaccess\\"+bd+".accdb";
 	
